@@ -9,4 +9,3 @@ require_relative "../lib/values.rb"
 def get_the_values(groceries)
   groceries.values.flatten
 end
-puts get_the_values(groceries)
