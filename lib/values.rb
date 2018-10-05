@@ -1,5 +1,4 @@
 require_relative "../lib/values.rb"
-require 'pry'
 #
 # groceries = {
 #   dairy: ["milk", "yogurt", "cheese"],
