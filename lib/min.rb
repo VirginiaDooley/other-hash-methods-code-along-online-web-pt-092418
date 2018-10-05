@@ -10,4 +10,3 @@ require_relative "../lib/min.rb"
 def get_the_min(groceries)
   groceries.values.flatten.min
 end
-puts get_the_min(groceries)
